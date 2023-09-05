@@ -19,6 +19,6 @@ public class DemoDay2 {
 
 	public static void divide (int a, int b) {
 
-		sysout.out.println (a/b);
+		System.out.println (a/b);
 	}
 }
